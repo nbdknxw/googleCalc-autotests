@@ -2,4 +2,4 @@
 
 Run:
 
-`pycharm tests/test_googleCalc.py`
+`pytest tests/test_googleCalc.py`
